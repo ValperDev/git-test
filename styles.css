@@ -13,3 +13,8 @@ ul {
 a {
     text-decoration: none;
 }
+
+.header {
+    display: flex;
+    gap: 1em;
+}
