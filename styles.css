@@ -18,3 +18,7 @@ a {
     display: flex;
     gap: 1em;
 }
+
+.header li {
+    font-size: .8em;
+}
